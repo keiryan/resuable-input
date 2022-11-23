@@ -8,7 +8,7 @@ Currently usable props to pass to inputs:
         * Border color // Coming soon
         * Background color // Coming soon
     * Input
-        * Input background color // Coming soon
+        * Input background color  **Coming soon**
         * Input color // Coming soon
 
 * Features
