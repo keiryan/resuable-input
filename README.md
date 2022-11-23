@@ -5,11 +5,11 @@ Currently usable props to pass to inputs:
 * Styling
     * Container
         * Padding
-        * Border color // Coming soon
-        * Background color // Coming soon
+        * Border color - **Coming soon**
+        * Background color - **Coming soon**
     * Input
-        * Input background color  **Coming soon**
-        * Input color // Coming soon
+        * Input background color  - **Coming soon**
+        * Input color - **Coming soon**
 
 * Features
     * Email
@@ -22,9 +22,9 @@ Currently usable props to pass to inputs:
         * AmountOfUppercase: 4,
         * AmountOfLowerCase: 5,
         * AmountOfNumbers: 6,
-        * noSpecialChars: true, // Coming soon
-        * SpecialCharsDefinition: ‘/’, // Coming soon
-        * ResetSpecialCharsDefinition: ‘/\’ // Coming soon
+        * noSpecialChars: true, - **Coming soon**
+        * SpecialCharsDefinition: ‘/’, - **Coming soon**
+        * ResetSpecialCharsDefinition: ‘/\’ - **Coming soon**
     * Text
         * capitalizeOnBlur: true,
         * lowercaseOnFocus: true,
