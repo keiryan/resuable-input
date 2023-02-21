@@ -34,6 +34,6 @@ Currently usable props to pass to inputs:
         * Placeholder
 
 
-Live demo here: https://resuable-input.vercel.app/
+🧑‍💻 Live demo here: https://resuable-input.vercel.app/
 
-Live code here: https://githubbox.com/keiryan/resuable-input
+⚙️ Live code here: https://githubbox.com/keiryan/resuable-input
