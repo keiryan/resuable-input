@@ -4,7 +4,7 @@ Highly reusable input for all things!
 
 Currently usable props to pass to inputs:
 
-* Styling
+* ### Styling
     * Container
         * Padding
         * Border color - **Coming soon**
