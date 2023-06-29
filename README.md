@@ -28,7 +28,7 @@ Currently usable props to pass to inputs:
         * SpecialCharsDefinition: ‘/’, - **Coming soon**
         * ResetSpecialCharsDefinition: ‘/\’ - **Coming soon**
     * Text
-        * capitalizeOnBlur: true,
+        * ```capitalizeOnBlur: true```,
         * lowercaseOnFocus: true,
         * Max-length
         * Placeholder
