@@ -29,7 +29,7 @@ Currently usable props to pass to inputs:
         * ResetSpecialCharsDefinition: ‘/\’ - **Coming soon**
     * Text
         * ```capitalizeOnBlur: true```,
-        * lowercaseOnFocus: true,
+        * ```lowercaseOnFocus: true```,
         * Max-length
         * Placeholder
 
