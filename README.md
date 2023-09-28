@@ -1,6 +1,6 @@
 **🚧 Under Construction 🚧**
 
-Highly reusable input for all things!
+Highly reusable input for all things! 📥
 
 Currently usable props to pass to inputs:
 
